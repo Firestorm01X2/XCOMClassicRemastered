@@ -87,8 +87,8 @@ extraSprites:
     files:
       0: Resources/AlienInventory/zombie.png
   - type: mutonInventoryImage
-    width: 320
-    height: 200
+    width: 350
+    height: 220
     singleImage: true
     files:
       0: Resources/AlienInventory/muton.png
